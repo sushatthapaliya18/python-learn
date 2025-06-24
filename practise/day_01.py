@@ -24,6 +24,24 @@ x=True
 print(x)
 print(type(x))
 
+# swap values
+a=7
+b=9
+a,b=b,a
+print(a,b)
+
+# add number and string
+# print(a+z)
+print(z+z)
+
+# mul
+m=4
+p=6
+print(4*6)
+print(m*p)
+
+
+
 
 
 
