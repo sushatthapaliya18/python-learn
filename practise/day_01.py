@@ -40,6 +40,9 @@ p=6
 print(4*6)
 print(m*p)
 
+# string methods
+a="hello, world"
+print(a.replace("h", "m"))
 
 
 
