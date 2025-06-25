@@ -44,6 +44,21 @@ print(m*p)
 a="hello, world"
 print(a.replace("h", "m"))
 
+#mul
+x=7
+y=6
+print(x*y)
+
+# concaneate
+r='m' 
+y='p'
+print(r+y)
+
+
+
+
+
+
 
 
 
